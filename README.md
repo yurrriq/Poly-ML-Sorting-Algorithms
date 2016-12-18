@@ -1,10 +1,12 @@
-# SML-NJ-Sorting-Algorithms
-Many different sorting algorithms implemented in SML-NJ
+# Poly/ML Sorting Algorithms
 
-Implementation of many different sorting algorithms using SML-NJ
+*A few sorting algorithms implemented in [Poly/ML][polyml].*
 
-    merge sort
-    bubble sort
-    quick sort
-    insertion sort
-    selection sort
+- merge
+- bubble
+- quick
+- insertion
+- selection
+
+<!-- Named Links -->
+[polyml]: http://polyml.org
